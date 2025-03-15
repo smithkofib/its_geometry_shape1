@@ -1,1 +1,1 @@
-# its_geometry_shape1
+# Shape_Ontology.owl
